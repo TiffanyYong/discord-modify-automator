@@ -2,7 +2,7 @@
 
 **Important instructions**
 
-Please read this before invoking the automater. All values taken were from full-screen Discord on a 13-inch 2560 x 1600 screen. Before you invoke the bot, please change the values so that the autoclicker clicks on the correct part of your specific screen. 
+Please read this before invoking the automater. All values taken were from full-screen Discord on a 13.3-inch 2560 x 1600 screen. Before you invoke the bot, please change the values so that the autoclicker clicks on the correct part of your specific screen. 
 
 In order to use the code, you must have the library `pyautogui` installed. 
 
